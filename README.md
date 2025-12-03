@@ -1,5 +1,5 @@
 
-# Pub-Sub-Store: Exemplo Prático de Arquitetura Publish/Subscribe
+
  
 Este repositório contém um exemplo simples de uma loja virtual construída usando uma **arquitetura publish/subscribe**.
  
