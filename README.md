@@ -1,7 +1,3 @@
-REPOSITÓRIO CRIADO PARA A MATÉRIA DE ARQUITETURA DE SOFTWARE DO PROFESSOR MICHEL DO UNICEUB. LER CRÉDITOS*
-<br>
-GRUPO: Caio Targino, Carlos Eduardo, Henrique Gennari
-
 
 # Pub-Sub-Store: Exemplo Prático de Arquitetura Publish/Subscribe
  
